@@ -15,3 +15,11 @@ game with WebSocket connectivity for real time server to client communication.
     * `npm start`
 
 Application should be up at [http://localhost:8080](http://localhost:8080).
+
+# Contributors
+* Richeek Mathur, 2023
+
+# References
+* Lab 8: https://uofa-cmput404.github.io/lab-8-websockets.html
+* https://nodejs.org/en/download
+* https://developer.mozilla.org/en-US/docs/Web/API/WebSocket
