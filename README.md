@@ -21,5 +21,7 @@ Application should be up at [http://localhost:8080](http://localhost:8080).
 
 # References
 * Lab 8: https://uofa-cmput404.github.io/lab-8-websockets.html
-* https://nodejs.org/en/download
 * https://developer.mozilla.org/en-US/docs/Web/API/WebSocket
+* https://www.codeinwp.com/blog/introduction-to-parcel-js/
+* https://blog.logrocket.com/benchmarking-bundlers-2020-rollup-parcel-webpack/
+* https://www.geeksforgeeks.org/difference-between-typescript-and-javascript/
