@@ -6,7 +6,9 @@
   "scripts": {
     "prestart": "rimraf public",
     "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "rimraf": "./node_modules/rimraf/bin.js",
+    "build": "tsc -p ./src"
   },
   "repository": {
     "type": "git",
@@ -24,10 +26,10 @@
     "parcel-bundler": "1.12.3",
     "phaser": "^3.16.2",
     "rimraf": "^3.0.2",
-    "typescript": "^4.2.3",
     "ws": "^7.4.4"
   },
   "devDependencies": {
-    "phaser3-docs": "git+https://github.com/uofa-cmput404/phaser3-docs.git"
+    "phaser3-docs": "git+https://github.com/uofa-cmput404/phaser3-docs.git",
+    "typescript": "^4.9.5"
   }
 }
